@@ -1,0 +1,23 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LEE-JE-YEON/nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LEE-JE-YEON/nodejs/issues"
+  },
+  "homepage": "https://github.com/LEE-JE-YEON/nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
