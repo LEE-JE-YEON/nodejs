@@ -12,4 +12,4 @@
    
 * *제작 목표*
 1. kakao open api 중, 카카오 친구에게 메시지 전송 API를 통해 금주 참석/불참석 여부 확인 메시지를 개별적으로 전송.
-> _postman을 통해 kakao open api 인증 및 테스트 완료_
+> __postman을 통해 kakao open api 인증 및 테스트 완료__
