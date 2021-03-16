@@ -1,2 +1,4 @@
-# nodejs
-Frontend : React, Backend : Node.js Express, DB : Mysql
+### nodejs and react
+* Frontend : React
+* Backend : Node.js Express
+* DB : Mysql
