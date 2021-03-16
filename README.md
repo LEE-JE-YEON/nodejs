@@ -2,7 +2,7 @@
 * Frontend : React
 * Backend : Node.js Express
 * DB : Mysql
-
+   
 * 제작 의도   
 1. 10년 째 운영하고 있는 조기 축구 동호회의 자동화 및 플랫폼화를 위해서.   
 2. 매주 참석/불참석 인원을 계산하기 위한 불편함이 있다.   
