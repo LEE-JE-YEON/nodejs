@@ -1,8 +1,8 @@
 ### 조기 축구 동호회 운영을 위한 웹사이트 개발
-# Frontend : React
-# Backend : Node.js Express
-# DB : Mysql
-# server : RaspberryPi 3 b+
+#### Frontend : React
+#### Backend : Node.js Express
+#### DB : Mysql
+#### server : RaspberryPi 3 b+
    
 * *제작 의도*
 1. 10년 째 운영하고 있는 조기 축구 동호회의 자동화 및 플랫폼화를 위해서.   
